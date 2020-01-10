@@ -12,6 +12,7 @@ Want to share your awesome solution? Please [open an issue on GitHub](https://gi
 ## Request a new solution
 Don't see your problem? Please [open an issue on GitHub](https://github.com/sarthak-sehgal/leetcode101/issues) having the format "[REQUEST] LC 344. Reverse String".
 
-<br>
-<br>
+<br/>
+<br/>
+
 ### Thanks for contributing!

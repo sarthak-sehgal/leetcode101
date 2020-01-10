@@ -3,7 +3,7 @@ layout: page
 permalink: /about/
 title: Hi, I am Sarthak
 ---
-I am a web engineer majoring in Computer Science at BITS Pilani, India. You can view my complete portfolio at [sarthaksehgal.co](https://sarthaksehgal.co).
+I am a web engineer majoring in Computer Science at BITS Pilani, India. You can view my complete portfolio at [sarthaksehgal.co](https://sarthaksehgal.co) and my LeetCode profile [here](https://leetcode.com/sarthaksehgal/).
 
 ## I love quite a few things!
 - Solving algorithmic problems in C++ using STL
