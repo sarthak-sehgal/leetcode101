@@ -5,6 +5,7 @@ permalink: /search/
 ---
 
 <div id="search-container">
+    <p>Want to view a problem which is tagged "top interview" and "arrays"? Just search for "top interview arrays".</p><br/>
     <input type="text" id="search-input" placeholder="Search through the blog posts...">
     <ul id="results-container"></ul>
 </div>
