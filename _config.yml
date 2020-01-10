@@ -38,15 +38,15 @@ footer-links:
 
 # Enter your Disqus shortname (not your username) to enable commenting on posts
 # You can find your shortname on the Settings page of your Disqus account
-disqus: 
+disqus: leetcode101
 
 # Enter your Google Analytics web tracking code (e.g. UA-2110908-2) to activate tracking
-google_analytics: 
+google_analytics: UA-130782039-3
 
 # Your website URL (e.g. http://amitmerchant1990.github.io or http://www.amitmerchant.com)
 # Used for Sitemap.xml and your RSS feed
-url: https://sarthaksehgal.co/leetcode101
-enforce_ssl: https://sarthaksehgal.co/leetcode101
+url: https://sarthak-sehgal.github.io/leetcode101
+enforce_ssl: https://sarthak-sehgal.github.io/leetcode101
 
 # If you're hosting your site at a Project repository on GitHub pages
 # (http://yourusername.github.io/repository-name)
