@@ -14,7 +14,7 @@ I am a web engineer majoring in Computer Science at BITS Pilani, India. You can 
 
 ## In the past I have been
 - Web Engineering Summer 2019 Intern at [Postman](https://www.getpostman.com)
-- [Google Summer of Code](https://summerofcode.withgoogle.com) mentor (2019) and student (2018) for the OBF
+- [Google Summer of Code](https://summerofcode.withgoogle.com) mentor (2019) and student (2018) for the [OBF](https://open-bio.org)
 
 <br>
 <br>
