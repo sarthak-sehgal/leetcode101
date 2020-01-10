@@ -12,4 +12,4 @@ Please [open an issue on GitHub](https://github.com/sarthak-sehgal/leetcode101/i
 ## Request a new solution
 Please [open an issue on GitHub](https://github.com/sarthak-sehgal/leetcode101/issues) having the format "[REQUEST] LC 344. Reverse String".
 
-## Thanks for contributing! :heart:
+## Thanks for contributing!
