@@ -1,21 +1,18 @@
 ---
 layout: page
 permalink: /about/
-title: Hi, I am Sarthak
+title: Hi, I am Sarthak!
 ---
-I am a web engineer majoring in Computer Science at BITS Pilani, India. You can view my complete portfolio at [sarthaksehgal.co](https://sarthaksehgal.co) and my LeetCode profile [here](https://leetcode.com/sarthaksehgal/).
+I am a software engineer pursuing Computer Science and Economics at [BITS Pilani, India](https://www.bits-pilani.ac.in).
 
-## I love quite a few things!
-- Solving algorithmic problems in C++ using STL
-- Solving problems with JavaScript and creating tools for other developers.
-- Open source and open science software
-- Coffee!
-- Talking about diversity and inclusion
+## Currently I am
+- Stoked to be joining Bloomberg as a Software Engineering Intern this year!
+- Participating in [eLife Innovation Leaders 2020](http://elifesciences.org/labs/fdcb6588/innovation-leaders-2020-introducing-the-cohort)
+- Participating in GSoC 2020 as an organisation administrator for the [OBF](https://open-bio.org)
 
 ## In the past I have been
-- Web Engineering Summer 2019 Intern at [Postman](https://www.getpostman.com)
+- Software Engineering Intern at [Postman](https://www.getpostman.com) (2019)
 - [Google Summer of Code](https://summerofcode.withgoogle.com) mentor (2019) and student (2018) for the [OBF](https://open-bio.org)
 
-<br>
-<br>
-Want to hire me? Let's [get in touch](https://sarthaksehgal.co).
+## Get in touch
+View my complete portfolio at [sarthaksehgal.co](https://sarthaksehgal.co) and my [LeetCode profile here](https://leetcode.com/sarthaksehgal/). Want to hire me? Let's [get in touch](https://sarthaksehgal.co).
