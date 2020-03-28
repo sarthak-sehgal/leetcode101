@@ -3,6 +3,9 @@ layout: default
 ---
 
 <div class="posts">
+  <a id="search-div" href="{{ site.baseurl }}/search">
+    Search a Question
+  </a>
   {% for post in paginator.posts %}
     <article class="post">
       <a href="{{ site.baseurl }}{{ post.url }}">

@@ -35,6 +35,10 @@ body {
   max-width: 60vw;
   padding: 0 10px;
   width: 100%;
+
+  @media (max-width: 500px) {
+    max-width: 80vw;
+  }
 }
 
 h1, h2, h3, h4, h5, h6 {
@@ -1133,6 +1137,26 @@ Modules - reusable parts of our design
     -ms-transform: translateX(0);
     -o-transform: translateX(0);
     transform: translateX(0);
+  }
+}
+
+#search-div {
+  display: none;
+}
+
+@media only screen and (min-width: 800px) {
+  #search-div {
+    display: block;
+    position: fixed;
+    bottom: 20px;
+    right: 20px;
+    border-radius: 5px;
+    background-color: #292929;
+    color: #d4d4d4;
+    padding: 10px 20px;
+    font-size: 15px;
+    cursor: pointer;
+    z-index: 999;
   }
 }
 
