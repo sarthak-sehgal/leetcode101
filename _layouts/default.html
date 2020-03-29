@@ -39,6 +39,9 @@
 
       <div class="wrapper-main">
         <div id="main" role="main" class="container">
+          {% if paginator %}
+          <p id="postCount">Solutions to {{ paginator.total_posts }} LeetCode problems available now!</p>
+          {% endif %}
           {{ content }}
         </div>
       </div>
