@@ -14,5 +14,12 @@ I am a software engineer pursuing Computer Science and Economics at [BITS Pilani
 - Software Engineering Intern at [Postman](https://www.getpostman.com) (2019)
 - [Google Summer of Code](https://summerofcode.withgoogle.com) mentor (2019) and student (2018) with the [OBF](https://open-bio.org)
 
+## Apart from professional work, I usually spend my time -
+- Solving algorithmic problems at CodeForces and LeetCode
+- Building applications using JavaScript
+- Working out
+- Reading tech blogs from various companies and learning how they solve problems at a large scale
+- Learning about scalable software and design systems
+
 ## Get in touch
 View my complete portfolio at [sarthaksehgal.co](https://sarthaksehgal.co) and my [LeetCode profile here](https://leetcode.com/sarthaksehgal/). Want to hire me? Let's [get in touch](mailto:sarthaksehgal00@gmail.com).
